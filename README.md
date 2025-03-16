@@ -1,4 +1,4 @@
-# To-Do List Application (JypeScript)
+# To-Do List Application (JavaScript)
 
 A simple **To-Do List** application that allows users to add and delete tasks. Tasks are stored persistently using **localStorage**, so they remain even after a page refresh.
 
